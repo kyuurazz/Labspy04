@@ -1,10 +1,10 @@
 # Pertemuan 9
 ## Daftar isi
-* [Program Sederhana Menambahkan Data Ke dalam List](https://github.com/kyuurazz/labspy04/#program-sederhana-menambahkan-data-ke-dalam-list)
-* [(Akses/Menambah/Ubah) Sebuah list]()
-    * [Akses List]()
-    * [Ubah List]()
-    * [Tambah List]()
+* [Program Sederhana Menambahkan Data Ke dalam List](https://github.com/kyuurazz/labspy04/#1-program-sederhana-menambahkan-data-ke-dalam-list)
+* [(Akses/Menambah/Ubah) Sebuah list](https://github.com/kyuurazz/labspy04/#2-aksesmenambahubah-sebuah-list)
+    * [Akses List](https://github.com/kyuurazz/labspy04/#1-penjelasan-akses-list)
+    * [Ubah List](https://github.com/kyuurazz/labspy04/#2-penjelasan-ubah-list)
+    * [Tambah List](https://github.com/kyuurazz/labspy04/#3-penjelasan-tambah-list)
 
 ## 1. Program Sederhana Menambahkan Data Ke dalam List
 ### Penjelasan
